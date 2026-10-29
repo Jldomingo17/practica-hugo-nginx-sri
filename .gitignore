@@ -1,0 +1,9 @@
+page2.html
+page2_parsed.txt
+parse_pages.py
+setup_hugo_site.py
+setup_nginx.py
+configure_vhost.py
+generate_test_screenshot.py
+build_full_practice.py
+__pycache__/
